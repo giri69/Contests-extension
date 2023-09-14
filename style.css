@@ -1,0 +1,47 @@
+
+
+body{
+    height: 500px;
+    width: 450px;
+    background-color: #183D3D;
+}
+header{
+    margin: 7px;
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #5C8374;
+}
+nav{
+    margin-top: 5px;
+    font-size: 10px; 
+}
+#cardContainer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    overflow: hidden;
+   
+}
+#cardContainer .card-img-top{
+    height: 55px;
+   width: 55px;
+}
+.card-body{
+    margin-top: 0;
+    font-size: small;
+}
+p{
+    font-size: 0.7rem;
+}
+button{
+    height: 25px;
+    background-color: #5C8374;
+    text-decoration: none;
+    color: black;
+}
+
+
+
+

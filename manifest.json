@@ -1,0 +1,17 @@
+{
+    "name":"Kontests",
+    "manifest_version": 3,
+     "version" : "1.0",
+     "discription":"Chrome Extension which will update you with all the upcoming coding contests",
+     "author":"BJG",
+     "permissions":["tabs","activeTab"],
+     "action":{
+        "default_popup":"index.html",
+        "default_title":"Kontests"
+        ,"default_icon":"code.png"
+     }
+     
+    
+  
+     
+}
